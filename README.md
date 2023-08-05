@@ -1,2 +1,2 @@
 # Manigo-site
-The website of the Manigo agency
+Website of the Manigo agency
