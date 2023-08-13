@@ -1,0 +1,15 @@
+body > div {
+  top: -6px;
+}
+
+body > div > div {
+  left: -200px;
+  top: -120px;
+  border-radius: 30px;
+  width: 455px;
+  height: 164px;
+}
+
+body h2 {
+  margin-bottom: 50px;
+}
